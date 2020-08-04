@@ -1,0 +1,26 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = Vista 01
+
+## Media
+
+### Title
+panorama_B1B760A5_B831_2DCC_41E1_0240E124D3AB.label = 03 Kitchen Outside
+panorama_B1B76848_B831_5D44_4193_098B442BEF13.label = 05 Pigeon Nest
+panorama_B1B76C9F_B831_35FC_41CD_D5A7FC5BCB6E.label = 04 Kitchen
+panorama_B1B9E3A1_B832_D3C4_41E1_7B2A7FCD534F.label = 01 Garden 
+panorama_B2F914BA_B832_D5C4_41DE_F2392B1BF8FC.label = 02 Entry1
+panorama_B59DA32C_B8EA_65DC_41D3_0D7C0D29BCCA.label = Balcony
+panorama_B5E26F45_B8EA_7C4D_41D2_F2F8B92AE18E.label = Bangabandhu Library
+panorama_B5E2EB9E_B8F5_E4FC_41DF_0DD20F50B143.label = Corridor Passage
+panorama_B5E30749_B8EA_2C44_41DC_3D890E78A461.label = Bangabandhu Room
+panorama_B5E349E1_B8F5_E445_41BF_6448D26A47F6.label = Kitchen Outside
+panorama_B5ED0BA2_B8EA_64C4_41C8_812A21385988.label = Bangabandhu Office
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_A81883F6_B831_534C_41CA_E77264877830.toolTip = Main Gate
